@@ -3,3 +3,18 @@ My name is
 My name is
 schk schk shck
 Miguel Ova
+
+
+-- Forecasting Time Series Data with Prophet- Second Edition, published by Packt
+https://github.com/PacktPublishing/Forecasting-Time-Series-Data-with-Prophet-Second-Edition
+
+-- Time Series Forecasting in Python by Marco Peixeiro
+https://github.com/marcopeix/TimeSeriesForecastingInPython
+
+-- Modern Time Series Forecasting with Python, published by Packt
+https://github.com/PacktPublishing/Modern-Time-Series-Forecasting-with-Python/tree/main
+
+-- Time Series Practical Analysis published by O'Reilly
+https://github.com/PracticalTimeSeriesAnalysis/BookRepo
+
+
